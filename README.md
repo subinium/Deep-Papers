@@ -4,3 +4,4 @@
 
 - [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) (Transformer) : [review](https://github.com/subinium/Deep-Papers/issues/1)
 - [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) (ELMo) : [review](https://github.com/subinium/Deep-Papers/issues/2)
+- [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://arxiv.org/abs/1804.07461) (GLUE) : [review](https://github.com/subinium/Deep-Papers/issues/3)
