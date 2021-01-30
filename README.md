@@ -16,3 +16,4 @@
 - [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://arxiv.org/abs/1804.07461) (GLUE) : [review](https://github.com/subinium/Deep-Papers/issues/3)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (BERT) : [review](https://github.com/subinium/Deep-Papers/issues/4)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) (MoCo) : [review](https://github.com/subinium/Deep-Papers/issues/5)
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (SimCLR) : [review](https://github.com/subinium/Deep-Papers/issues/6)
