@@ -19,3 +19,7 @@
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (SimCLR) : [review](https://github.com/subinium/Deep-Papers/issues/6)
 - [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) (DETR) : [review](https://github.com/subinium/Deep-Papers/issues/7)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) (ViT) : [review](https://github.com/subinium/Deep-Papers/issues/8)
+
+## NLP Models
+
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) : [review](https://github.com/subinium/Deep-Papers/issues/9)
