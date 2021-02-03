@@ -22,4 +22,5 @@
 
 ## NLP Models
 
-- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) : [review](https://github.com/subinium/Deep-Papers/issues/9)
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (XLNet): [review](https://github.com/subinium/Deep-Papers/issues/9)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) (RoBERTa) : [review](https://github.com/subinium/Deep-Papers/issues/10)
