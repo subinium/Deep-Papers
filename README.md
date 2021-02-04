@@ -24,3 +24,4 @@
 
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (XLNet): [review](https://github.com/subinium/Deep-Papers/issues/9)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) (RoBERTa) : [review](https://github.com/subinium/Deep-Papers/issues/10)
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) [ALBERT] : [review](https://github.com/subinium/Deep-Papers/issues/10)
