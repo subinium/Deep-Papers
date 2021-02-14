@@ -29,3 +29,7 @@
 ## XAI
 
 - [Opportunities and Challenges in Explainable Artificial Intelligence (XAI): A Survey](https://arxiv.org/pdf/2006.11371.pdf) : [review](https://github.com/subinium/Deep-Papers/issues/14)
+
+### XAI metric
+
+- [Measuring the Quality of Explanations: The System Causability Scale (SCS)](https://arxiv.org/pdf/1912.09024.pdf) : [review](https://github.com/subinium/Deep-Papers/issues/19)
