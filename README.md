@@ -33,3 +33,7 @@
 ### XAI metric
 
 - [Measuring the Quality of Explanations: The System Causability Scale (SCS)](https://arxiv.org/pdf/1912.09024.pdf) : [review](https://github.com/subinium/Deep-Papers/issues/19)
+
+## ETC 
+
+- [Deep Learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf) : [review](https://github.com/subinium/Deep-Papers/issues/26)
