@@ -29,6 +29,7 @@
 ## GAN
 
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) (PGGAN) : [review](https://github.com/subinium/Deep-Papers/issues/29)
+- [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (StyleGAN) : [review](https://github.com/subinium/Deep-Papers/issues/28)
 
 ## XAI
 
