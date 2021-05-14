@@ -30,6 +30,7 @@
 
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) (Pix2Pix) : [review](https://github.com/subinium/Deep-Papers/issues/32)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) (PGGAN) : [review](https://github.com/subinium/Deep-Papers/issues/29)
+- [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) (SAGAN) : [review](https://github.com/subinium/Deep-Papers/issues/36) 
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (StyleGAN) : [review](https://github.com/subinium/Deep-Papers/issues/28)
 
 ## XAI
