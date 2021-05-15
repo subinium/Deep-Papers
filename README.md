@@ -33,6 +33,7 @@
 - [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) (SAGAN) : [review](https://github.com/subinium/Deep-Papers/issues/36) 
 - [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) (BigGAN) : [review](https://github.com/subinium/Deep-Papers/issues/35)
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (StyleGAN) : [review](https://github.com/subinium/Deep-Papers/issues/28)
+- [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958) (StyleGAN2) : [review](https://github.com/subinium/Deep-Papers/issues/30)
 
 ### Manipulate GAN
 
