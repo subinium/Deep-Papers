@@ -38,6 +38,7 @@
 
 ### GAN Inverse
 
+- [On the "steerability" of generative adversarial networks](https://arxiv.org/abs/1907.07171) : [review](https://github.com/subinium/Deep-Papers/issues/40)
 - [GANSpace: Discovering Interpretable GAN Controls](https://arxiv.org/abs/2004.02546) : [review](https://github.com/subinium/Deep-Papers/issues/38)
 
 ## XAI
