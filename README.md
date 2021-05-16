@@ -36,7 +36,7 @@
 - [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958) (StyleGAN2) : [review](https://github.com/subinium/Deep-Papers/issues/30)
 - [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164) (SinGAN) : [review](https://github.com/subinium/Deep-Papers/issues/39)
 
-### Manipulate GAN
+### GAN Inverse
 
 - [GANSpace: Discovering Interpretable GAN Controls](https://arxiv.org/abs/2004.02546) : [review](https://github.com/subinium/Deep-Papers/issues/38)
 
