@@ -5,7 +5,9 @@
 - insta : [@deep_papers](https://www.instagram.com/deep_papers/)
 - fb : [AI.Lookbook](https://www.facebook.com/AI.Lookbook)
  
-> 좋아하는 논문 읽고 딥하게 생각해보는 레포. 모든 리뷰는 이슈로 작성 예정
+좋아하는 논문 읽고 제 나름대로 포인트를 생각한 리뷰들 모음입니다.
+
+리뷰는 Issue 또는 페이스북 페이지글로 구성되어 있습니다.
 
 ## Basic-Advanced Papers
 
@@ -20,13 +22,20 @@
 - [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) (DETR) : [review](https://github.com/subinium/Deep-Papers/issues/7)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) (ViT) : [review](https://github.com/subinium/Deep-Papers/issues/8)
 
-## NLP Models
+## NLP
 
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (XLNet): [review](https://github.com/subinium/Deep-Papers/issues/9)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) (RoBERTa) : [review](https://github.com/subinium/Deep-Papers/issues/10)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ALBERT) : [review](https://github.com/subinium/Deep-Papers/issues/10)
+## Computer Vision
+
+- [Evaluating Machine Accuracy on ImageNet](http://proceedings.mlr.press/v119/shankar20c.html) : [review](https://www.facebook.com/AI.Lookbook/posts/943178436362886)
+- [Do Better ImageNet Models Transfer Better?](https://arxiv.org/abs/1805.08974) : [review](https://www.facebook.com/AI.Lookbook/posts/942783753069021)
+- [ResNet strikes back: An improved training procedure in timm](https://arxiv.org/abs/2110.00476) : [review](https://www.facebook.com/AI.Lookbook/posts/943710009643062)
 
 ## GAN
+
+### GAN Models
 
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) (Pix2Pix) : [review](https://github.com/subinium/Deep-Papers/issues/32)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) (PGGAN) : [review](https://github.com/subinium/Deep-Papers/issues/29)
@@ -36,7 +45,7 @@
 - [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958) (StyleGAN2) : [review](https://github.com/subinium/Deep-Papers/issues/30)
 - [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164) (SinGAN) : [review](https://github.com/subinium/Deep-Papers/issues/39)
 
-### GAN Inverse
+### GAN Inversion
 
 - [On the "steerability" of generative adversarial networks](https://arxiv.org/abs/1907.07171) : [review](https://github.com/subinium/Deep-Papers/issues/40)
 - [GANSpace: Discovering Interpretable GAN Controls](https://arxiv.org/abs/2004.02546) : [review](https://github.com/subinium/Deep-Papers/issues/38)
