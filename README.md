@@ -33,6 +33,10 @@
 - [Do Better ImageNet Models Transfer Better?](https://arxiv.org/abs/1805.08974) : [review](https://www.facebook.com/AI.Lookbook/posts/942783753069021)
 - [ResNet strikes back: An improved training procedure in timm](https://arxiv.org/abs/2110.00476) : [review](https://www.facebook.com/AI.Lookbook/posts/943710009643062)
 
+## Multi Modal
+
+- [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998) : [review](https://www.facebook.com/AI.Lookbook/posts/945594429454620)
+
 ## GAN
 
 ### GAN Models
