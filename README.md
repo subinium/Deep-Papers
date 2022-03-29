@@ -48,6 +48,7 @@
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (StyleGAN) : [review](https://github.com/subinium/Deep-Papers/issues/28)
 - [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958) (StyleGAN2) : [review](https://github.com/subinium/Deep-Papers/issues/30)
 - [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164) (SinGAN) : [review](https://github.com/subinium/Deep-Papers/issues/39)
+- [Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis](https://arxiv.org/abs/2101.04775) : [review](https://www.facebook.com/AI.Lookbook/posts/952227138791349)
 
 ### GAN Inversion
 
